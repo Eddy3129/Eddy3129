@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences: [https://shorturl.at/mxNO6]
 
-- ⚡ Fun fact **I love and hate coding at the same time, but once I finish a project EVERYTHING'S WORTH!**
+- ⚡ Fun fact **I love and hate coding at the same time, but once a project is finished EVERYTHING'S WORTH!**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddy3129&show_icons=true&locale=en&layout=compact" alt="eddy3129" /></p>
 
