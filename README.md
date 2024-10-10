@@ -44,9 +44,7 @@
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/><br>Next.js
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+     <td align="center">
       <a href="https://supabase.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/><br>Supabase
       </a>
@@ -61,13 +59,13 @@
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/><br>Firebase
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://solana.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/solana.svg" alt="Solana" width="40" height="40"/><br>Solana
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/><br>Node.js
