@@ -69,11 +69,6 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.anchor-lang.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/anchorlang/anchorlang-icon.svg" alt="Anchor" width="40" height="40"/><br>Anchor
-      </a>
-    </td>
-    <td align="center">
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/><br>Node.js
       </a>
