@@ -6,7 +6,7 @@
 <p align="center">
    <img src="https://gifdb.com/images/thumbnail/eren-yeager-stretching-lips-wzi1cm2t2e19lrxz.gif" alt="eren GIF" />
 </p>
-<h3 align="center">A final year Computer Science student who is highly passionate about blockchain and Web 3 technologies.</h3>
+<h3 align="center">A final year Computer Science student who is deep-rooted passion for blockchain and Web 3 technologies.</h3>
 <h3 align="center">🚀 Fun Fact: I'm diving into Ethereum Layer Two technologies for my final year project! 🔗✨</h3>
 
 <h3 align="center">Connect with me:</h3>
