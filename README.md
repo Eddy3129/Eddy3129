@@ -62,13 +62,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://flutterflow.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutter/flutter-icon.svg" alt="FlutterFlow" width="40" height="40"/><br>FlutterFlow
-      </a>
-    </td>
-    <td align="center">
       <a href="https://solana.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/solana/solana-icon.svg" alt="Solana" width="40" height="40"/><br>Solana
+        <img src="https://cdn.worldvectorlogo.com/logos/solana.svg" alt="Solana" width="40" height="40"/><br>Solana
       </a>
     </td>
   </tr>
