@@ -99,10 +99,4 @@
 
 <br/><br/>
 
-<h2 align="center">📅 Contribution Calendar 📅</h2>
-
-<p align="center">
-  <img src="https://github.com/eddy3129/eddy3129/raw/output/github-contribution-grid-snake.svg" alt="snake contribution" />
-</p>
-
 <hr/>
