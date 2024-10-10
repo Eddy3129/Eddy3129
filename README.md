@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Eddy</h1>
 <p align="center">
-   <img src="https://media.gifdb.com/eren-yeager-stretching-lips-wzi1cm2t2e19lrxz.gif" alt="eren GIF" />
+   <img src="https://gifdb.com/images/thumbnail/eren-yeager-stretching-lips-wzi1cm2t2e19lrxz.gif" alt="eren GIF" />
 </p>
 <h3 align="center">A final year Computer Science student who is highly passionate about blockchain and Web 3 technologies.</h3>
 
