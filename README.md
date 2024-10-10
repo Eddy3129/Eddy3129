@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=eddy3129&label=Profile%20views&color=0e75b6&style=flat" alt="eddy3129" /> 
 </p>
 
-<h1 align="center">Hi 👋, I'm Eddy</h1>
+<h1 align="center">Hi there👋, it's Eddy here!</h1>
 <p align="center">
    <img src="https://gifdb.com/images/thumbnail/eren-yeager-stretching-lips-wzi1cm2t2e19lrxz.gif" alt="eren GIF" />
 </p>
@@ -83,8 +83,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/><br>PostgreSQL
+      <a href="https://apex.oracle.com/en/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="OracleSQL" width="40" height="40"/><br>Oracle APEX SQL
       </a>
     </td>
     <td align="center">
