@@ -10,13 +10,13 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/fongyew-lim-40878122a" target="blank">
+  <a href="https://www.linkedin.com/in/fongyew-lim/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <br>
-    <a href="limfongyew.lfy@gmail.com" target="blank">
+  <a href="mailto:limfongyew.lfy@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
