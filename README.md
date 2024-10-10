@@ -2,16 +2,20 @@
   <img src="https://komarev.com/ghpvc/?username=eddy3129&label=Profile%20views&color=0e75b6&style=flat" alt="eddy3129" /> 
 </p>
 
-<h1 align="center">Hi 👋, I'm Eddy</h1>
+<h1 align="center">Hi 👋, I'm Fong Yew Lim</h1>
+<p align="center">
+  <img src="https://tenor.com/view/eren-eren-yeager-freedom-sky-anime-gif-27648718" alt="Eren Yeager GIF" />
+</p>
 <h3 align="center">A final year Computer Science student who is highly passionate about blockchain and Web 3 technologies.</h3>
 
 - 🌱 I’m currently learning **Solidity and Ethereum**
 
-- 📫 How to reach me: **limfongyew.lfy@gmail.com**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/fongyew-lim-40878122a" target="blank">
+  <a href="https://www.linkedin.com/in/fongyew-lim-40878122a" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+    <a href="https://www.linkedin.com/in/fongyew-lim-40878122a" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
@@ -44,7 +48,9 @@
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/><br>Next.js
       </a>
     </td>
-     <td align="center">
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://supabase.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/><br>Supabase
       </a>
@@ -59,8 +65,6 @@
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/><br>Firebase
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://solana.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/solana.svg" alt="Solana" width="40" height="40"/><br>Solana
@@ -71,6 +75,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/><br>Node.js
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/><br>Pandas
