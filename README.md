@@ -2,21 +2,19 @@
   <img src="https://komarev.com/ghpvc/?username=eddy3129&label=Profile%20views&color=0e75b6&style=flat" alt="eddy3129" /> 
 </p>
 
-<h1 align="center">Hi 👋, I'm Fong Yew Lim</h1>
+<h1 align="center">Hi 👋, I'm Eddy</h1>
 <p align="center">
   <img src="https://tenor.com/view/eren-eren-yeager-freedom-sky-anime-gif-27648718" alt="Eren Yeager GIF" />
 </p>
 <h3 align="center">A final year Computer Science student who is highly passionate about blockchain and Web 3 technologies.</h3>
 
-- 🌱 I’m currently learning **Solidity and Ethereum**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/fongyew-lim-40878122a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-    <a href="https://www.linkedin.com/in/fongyew-lim-40878122a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <a href="limfongyew.lfy@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
