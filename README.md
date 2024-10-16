@@ -98,7 +98,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=eddy3129&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" style="margin: 10px;"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=eddy3129&theme=react&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   <br/>
   <br/>
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddy3129&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" style="margin: 10px;"/>
@@ -107,3 +107,9 @@
 <br/><br/>
 
 <hr/>
+<p align="center">
+  <a href="https://github.com/ihaterynn/github-readme-stats">
+    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihaterynn&hide=HTML&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&bg_color=000000" alt="top langs" style="margin: 10px;"/>
+  </a>
+</p>
+
