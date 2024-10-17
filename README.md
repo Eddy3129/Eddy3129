@@ -107,9 +107,5 @@
 <br/><br/>
 
 <hr/>
-<p align="center">
-  <a href="https://github.com/ihaterynn/github-readme-stats">
-    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihaterynn&hide=HTML&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&bg_color=000000" alt="top langs" style="margin: 10px;"/>
-  </a>
-</p>
+
 
