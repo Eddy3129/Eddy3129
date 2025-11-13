@@ -6,7 +6,8 @@
 <p align="center">
    <img src="https://gifdb.com/images/thumbnail/eren-yeager-stretching-lips-wzi1cm2t2e19lrxz.gif" alt="eren GIF" />
 </p>
-<h3 align="center">A graduated Computer Science student who aspires to be a Web 3 and DeFi builder.</h3>
+<h3 align="center">A Web 3 Startup Co-founder, DeFi builder, and Full-Stack Developer. Currently building Give Protocol and Yolo Protocol.</h3>
+<h3 align="center">Also a very recent computer science graduate.</h3>
 <!-- <h3 align="center">🚀 Fun Fact: I'm diving into Ethereum Layer Two technologies for my final year project! 🔗✨</h3> -->
 
 <h3 align="center">Connect with me:</h3>
