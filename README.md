@@ -13,7 +13,7 @@
 
 <ul>
   <li>
-    🚀 Currently building a <strong>Farcaster mini app</strong>
+    🚀 Currently building a <strong> <a href="https://github.com/Eddy3129/Vouchie">Farcaster mini app </a></strong>
   </li>
   <li>
     🦀 Learning <strong>Rust</strong> and documenting my journey in my
