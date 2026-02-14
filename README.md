@@ -18,7 +18,7 @@
   <li>
     🦀 Learning <strong>Solidity</strong> and documenting my journey in my
     <a href="https://github.com/Eddy3129/solidity-gitbook" target="_blank" rel="noreferrer">
-      Rust GitBook
+      Solidity GitBook
     </a>
   </li>
   <li>
