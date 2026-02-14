@@ -16,8 +16,8 @@
     🚀 Currently building a <strong> <a href="https://github.com/Eddy3129/Vouchie">Farcaster mini app </a></strong>
   </li>
   <li>
-    🦀 Learning <strong>Rust</strong> and documenting my journey in my
-    <a href="https://github.com/Eddy3129/rust-gitbook" target="_blank" rel="noreferrer">
+    🦀 Learning <strong>Solidity</strong> and documenting my journey in my
+    <a href="https://github.com/Eddy3129/solidity-gitbook" target="_blank" rel="noreferrer">
       Rust GitBook
     </a>
   </li>
