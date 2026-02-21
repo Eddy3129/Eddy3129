@@ -4,7 +4,7 @@
 <p>
   I build modern web applications with a strong interest in 
   <strong>full-stack development</strong>, <strong>Web3</strong>, and <strong>DeFi</strong>.
-  Most of my work, experiments, and projects live in my portfolio.  👉 <strong>
+  Most of my work, experiments, and projects are live in my portfolio.  👉 <strong>
     <a href="https://eddylim.vercel.app" target="_blank" rel="noreferrer">
       Visit site
     </a>
@@ -13,7 +13,7 @@
 
 <ul>
   <li>
-    🚀 Currently building a <strong> <a href="https://github.com/Eddy3129/Vouchie">Farcaster mini app </a></strong>
+    🚀 Currently building a <strong> <a href="https://github.com/Eddy3129/give-protocol-v1">Give Protocol </a></strong>
   </li>
   <li>
     🦀 Learning <strong>Solidity</strong> and documenting my journey in my
