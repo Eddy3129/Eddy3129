@@ -13,7 +13,7 @@
 
 <ul>
   <li>
-    🚀 Currently building a <strong> <a href="https://github.com/Eddy3129/give-protocol-v1">Give Protocol </a></strong>
+    🚀 Currently building <strong> <a href="https://github.com/Eddy3129/give-protocol-v1">Give Protocol </a></strong>
   </li>
   <li>
     🦀 Learning <strong>Solidity</strong> and documenting my journey in my
